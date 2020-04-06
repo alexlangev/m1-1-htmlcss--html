@@ -5,7 +5,7 @@
 
 Type true/false in the provided [ ].
 
-a) [true] `<div><span>hello</div></span>`
+a) [false] `<div><span>hello</div></span>`
 
 b) [false]
 
@@ -22,7 +22,7 @@ c) [true] `<ul></ul><img/><ol><li>one</li></ol>`
 
 _Feel free to use the powers of Google here, but please provide link(s) to your source(s)_
 
-Screenreaders are tools available on most operating systems to help navigate website for people with certain disabilities.
+Screenreaders are tools available on most operating systems that help to help navigate websites for people with certain disabilities.
 
 
 ## Q3 - For each of the following cases, which tags will be needed?
@@ -34,19 +34,17 @@ The image tag <img>
 
 b) You want to create a website that lists all the art gallery websites in your city and links to their website.
 
-Anchor tags <a></a> and probably lists. Either unordered or ordered lists. <ul></ul> and <ol></ol>. For these, list items is needed for each entry <li></li>
+Anchor tags <a></a> to link the websites. With that we would need unordered or ordered lists. <ul></ul> and <ol></ol>. For these, list items is needed for each entry <li></li>
 
 c) You want to sell designer hats. You need to receive orders from the user.
 
-There will most probably be a form tag on the page. <form></form>
+Creating a form with a form tag is probably the best way to go. <form></form>
 
-An input tag is probably needed. <input></input>
-
-
+An input tag is also probably needed. <input></input>
 
 ## Q4 - Can a button be a child of a button? Explain your reasoning
 
-No it can't. That some sort of button on which another button resides.
+No it can't. This would mean that a button resides on another button.
 
 
 ## Q5 - What is the most generic tag you can use?
@@ -72,7 +70,7 @@ g) `td` table data
 
 
 ## Q7 - Usually, `td` elements are children of what kind of elements?
- They are children of table row elements
+They are children of table row elements
 
 
 ## Q8 - What is the difference between td and th?
@@ -88,11 +86,11 @@ th are the entries for the first row of the table. td are the entries for all ot
 
 ## Q11 - What is autofilling and why is it important?
 
-It is used in forms. It makes the browser pedict the information of different fields in the form based on the current user.
+It is used in forms. It makes the browser predict the information of different fields in the form based on the current user.
 
 
 ## Q12 - Which attributes are always present in an img element?
- A source attribute
+A source attribute.
 
 
 ## Q13 - Which attribute is always present for an anchor tag?
